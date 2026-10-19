@@ -1,0 +1,16 @@
+# Python 3.11. Versions used for the published run (2026-10-17).
+python-dotenv==1.2.4
+
+# API engines
+mistralai==3.2.0          # code/mistral.py
+openai==3.33.0            # code/gemini_*.py (OpenRouter)
+landingai-ade==1.18.1     # code/landingai.py
+
+# Self-hosted engines
+docling==2.140.0          # code/docling_ocr.py
+mlx-vlm==0.7.8; sys_platform == "darwin" and platform_machine == "arm64"   # code/unlimited_ocr.py (Apple Silicon)
+
+# code/paddleocr_vl.py needs its own environment (its dependencies conflict with docling):
+#   pip install python-dotenv==1.2.4 paddlepaddle==3.3.1 paddleocr==3.7.0 paddlex==3.7.2
+# code/tesseract_ocr.py needs the tesseract binary:
+#   brew install tesseract tesseract-lang   /   apt install tesseract-ocr tesseract-ocr-fra

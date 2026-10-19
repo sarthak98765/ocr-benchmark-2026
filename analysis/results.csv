@@ -1,0 +1,10 @@
+engine,key_fields,word_f1,recall,precision,f1_invoices_p1_3,f1_forms_p4_10,seconds_per_page,usd_per_1000_pages,version
+gemini_3_8_flash,55/55,0.9197,0.9146,0.9252,0.9804,0.8937,4.52,3.17,google/gemini-3.8-flash
+mistral,53/55,0.9197,0.9123,0.928,0.9859,0.8913,0.4,4.0,"mistral-ocr-latest = mistral-ocr-4-1 (OCR 4.1), resolved via /v1/models aliases"
+gemini_3_flash_preview,54/55,0.9172,0.9164,0.9183,0.9852,0.888,3.7,2.59,google/gemini-3-flash-preview
+gemini_3_5_flash_lite,51/55,0.9149,0.9071,0.9237,0.9783,0.8877,1.95,1.88,google/gemini-3.5-flash-lite
+landingai,53/55,0.8757,0.8878,0.8688,0.9732,0.8339,2.12,30.0,dpt-2-20260903
+unlimited_ocr,45/55,0.8462,0.8455,0.8564,0.8447,0.8468,27.18,0.0,baidu/Unlimited-OCR / mlx-vlm 0.7.8
+paddleocr_vl,42/55,0.8097,0.7457,0.9036,0.7603,0.8309,12.54,0.0,PaddlePaddle/PaddleOCR-VL-1.6 / paddleocr 3.7.0 / paddlex 3.7.2
+docling_ocr,46/55,0.6945,0.7163,0.7554,0.7402,0.6749,6.6,0.0,docling 2.140.0
+tesseract_ocr,33/55,0.6222,0.5736,0.6991,0.8603,0.5202,0.72,0.0,tesseract 5.5.3

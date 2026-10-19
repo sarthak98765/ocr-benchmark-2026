@@ -1,0 +1,78 @@
+{
+  "_note": "Business-critical values read from the page images. A field is correct when the value appears in the engine's page output after lowercasing and removing all whitespace. Page 4 amounts verified by arithmetic (143,922.60 + 12,764.00 = 156,686.60); the FUNSD annotation for these amounts is wrong. Page 6 handwritten values 4060 (= 3,015 + 1,045) and 8650 verified on the image; FUNSD says 4050.",
+  "1": [
+    "OD304175096047380001",
+    "BLR_WFLD20151000982590",
+    "AAACW8725FSD001",
+    "ACCEA5E3GPBQJ9P9",
+    "278.61",
+    "40.39",
+    "319.00",
+    "14.50%"
+  ],
+  "2": [
+    "296664039561",
+    "42183017",
+    "$4.11",
+    "$1.87",
+    "$2.22",
+    "98109-5210"
+  ],
+  "3": [
+    "562044387",
+    "FO10479674",
+    "10577874",
+    "29.99",
+    "Prélèvement à partir du"
+  ],
+  "4": [
+    "COREMARK INTERNATIONAL",
+    "20182",
+    "39A00A",
+    "$143,922.60",
+    "$12,764.00",
+    "$156,686.60"
+  ],
+  "5": [
+    "WEBCRAFT TECHNOLOGIES",
+    "M14789",
+    "$20,580.00",
+    "$15,190.00",
+    "$431.25",
+    "$48.75"
+  ],
+  "6": [
+    "October 16, 1987",
+    "500 Plaques",
+    "$9.18",
+    "$3,015.00",
+    "$1,045.00",
+    "4060",
+    "8650"
+  ],
+  "7": [
+    "Peter J. Marzullo",
+    "Lorillard Tobacco Company",
+    "482.00",
+    "603.00"
+  ],
+  "8": [
+    "Kleeberger",
+    "210,910",
+    "212,481",
+    "220,416"
+  ],
+  "9": [
+    "MARCH 17, 1995",
+    "NPT-533-7",
+    "P5CB",
+    "JUNE 1995"
+  ],
+  "10": [
+    "LRB 1946",
+    "20.285",
+    "$4.50",
+    "$8,000",
+    "262-6423"
+  ]
+}
